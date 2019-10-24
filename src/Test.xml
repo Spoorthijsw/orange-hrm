@@ -1,0 +1,10 @@
+<Objectinfo>
+
+  <FirstName  locater="" value="" /> 
+  <Lastname  locator=" "  value=""/>
+  <Email locator="" value=""/>
+  <username locator="" value=""/>
+  <password locator="" value=""/>
+  <confirmpassword locator="" value=""/>
+  
+</Objectinfo>

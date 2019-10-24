@@ -1,0 +1,16 @@
+2019-10-23 18:35:08,079  INFO [main] log_demo:17 - browser is launchimg
+2019-10-23 18:36:00,830  INFO [main] log_demo:23 - url is launching
+2019-10-23 18:36:01,481 ERROR [main] log_demo:26 - *******no such element found****
+2019-10-23 18:39:07,581  INFO [main] log_demo:17 - browser is launchimg
+2019-10-23 18:39:24,787  INFO [main] log_demo:23 - url is launching
+2019-10-23 18:39:25,062 ERROR [main] log_demo:26 - *******no such element found****
+2019-10-24 10:57:14,846  INFO [main] log_demo:17 - browser is launchimg
+2019-10-24 10:57:35,093  INFO [main] log_demo:23 - url is launching
+2019-10-24 10:57:38,451 ERROR [main] log_demo:26 - *******no such element found****
+2019-10-24 11:01:25,363  INFO [main] log_demo:18 - browser is launchimg
+2019-10-24 11:01:39,033  INFO [main] log_demo:24 - url is launching
+2019-10-24 11:01:39,284 ERROR [main] log_demo:27 - *******no such element found****
+2019-10-24 11:06:24,985  INFO [main] log_demo:18 - browser is launchimg
+2019-10-24 11:06:38,148  INFO [main] log_demo:24 - url is launching
+2019-10-24 11:06:38,363 ERROR [main] log_demo:27 - *******no such element found****
+2019-10-24 11:06:38,363 DEBUG [main] log_demo:28 - Hello this is debug message
